@@ -41,7 +41,7 @@
   },
   {
     "Name": "Genève - Lyon",
-    "Color": "#BBBB00",
+    "Color": "#FF00FF",
     "Segments": [
       {"Date": "2021-09-18", "Gpx": "gpx/2021-09-18-Geneve-Lyon.gpx"},
       {"Date": "2021-09-19", "Gpx": "gpx/2021-09-19-Geneve-Lyon.gpx"},

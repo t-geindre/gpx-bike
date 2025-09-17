@@ -4,14 +4,21 @@
         <meta charset="utf-8"/>
         <title>Les petits pédaleurs</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="assets/leaflet.css"/>
+        <link rel="stylesheet" href="libs/leaflet.css"/>
         <link rel="stylesheet" href="assets/style.css"/>
     </head>
     <body>
         <div id="map"></div>
-        <div id="panel"></div>
-        <script src="assets/leaflet.js"></script>
-        <script src="assets/gpx.js"></script>
+        <div id="panel">
+            <p>Trips</p>
+            <div class="trips"></div>
+        </div>
+        <script src="libs/leaflet.js"></script>
+        <script src="libs/gpx.js"></script>
+        <script src="assets/utils.js"></script>
+        <script src="assets/tooltip.js"></script>
+        <script src="assets/segments.js"></script>
+        <script src="assets/panel.js"></script>
         <script src="assets/main.js"></script>
     </body>
 </html>
