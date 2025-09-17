@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "Nantes - Lyon",
+    "Color": "#FF0000",
+    "Segments": [
+      {"Date": "2025-09-07", "Gpx": "gpx/2025-09-07-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-08", "Gpx": "gpx/2025-09-08-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-09", "Gpx": "gpx/2025-09-09-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-10", "Gpx": "gpx/2025-09-10-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-11", "Gpx": "gpx/2025-09-11-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-12", "Gpx": "gpx/2025-09-12-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-13", "Gpx": "gpx/2025-09-13-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-14", "Gpx": "gpx/2025-09-14-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-15", "Gpx": "gpx/2025-09-15-Nantes-Lyon.gpx"},
+      {"Date": "2025-09-16", "Gpx": "gpx/2025-09-16-Nantes-Lyon.gpx"}
+    ]
+  },
+  {
+    "Name": "Thionville - Lyon",
+    "Color": "#0000FF",
+    "Segments": [
+      {"Date": "2024-09-06", "Gpx": "gpx/2024-09-06-Thionville-Lyon.gpx"},
+      {"Date": "2024-09-07", "Gpx": "gpx/2024-09-07-Thionville-Lyon.gpx"},
+      {"Date": "2024-09-08", "Gpx": "gpx/2024-09-08-Thionville-Lyon.gpx"},
+      {"Date": "2024-09-09", "Gpx": "gpx/2024-09-09-Thionville-Lyon.gpx"},
+      {"Date": "2024-09-10", "Gpx": "gpx/2024-09-10-Thionville-Lyon.gpx"},
+      {"Date": "2024-09-11", "Gpx": "gpx/2024-09-11-Thionville-Lyon.gpx"}
+    ]
+  },
+  {
+    "Name": "Lyon - Marseille",
+    "Color": "#00AA00",
+    "Segments": [
+      {"Date": "2023-09-16", "Gpx": "gpx/2023-09-16-Lyon-Marseille.gpx"},
+      {"Date": "2023-09-17", "Gpx": "gpx/2023-09-17-Lyon-Marseille.gpx"},
+      {"Date": "2023-09-18", "Gpx": "gpx/2023-09-18-Lyon-Marseille.gpx"},
+      {"Date": "2023-09-19", "Gpx": "gpx/2023-09-19-Lyon-Marseille.gpx"},
+      {"Date": "2023-09-20", "Gpx": "gpx/2023-09-20-Lyon-Marseille.gpx"},
+      {"Date": "2023-09-21", "Gpx": "gpx/2023-09-21-Lyon-Marseille.gpx"}
+    ]
+  },
+  {
+    "Name": "Genève - Lyon",
+    "Color": "#BBBB00",
+    "Segments": [
+      {"Date": "2021-09-18", "Gpx": "gpx/2021-09-18-Geneve-Lyon.gpx"},
+      {"Date": "2021-09-19", "Gpx": "gpx/2021-09-19-Geneve-Lyon.gpx"},
+      {"Date": "2021-09-20", "Gpx": "gpx/2021-09-20-Geneve-Lyon.gpx"}
+    ]
+  }
+]
