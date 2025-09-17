@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: Arial, sans-serif;
 }
 
 #map {
@@ -29,7 +30,7 @@
 }
 
 #panel .trip {
-    padding: 5px 10px;
+    padding: 10px 15px;
 }
 
 #panel .trip:hover {
@@ -45,22 +46,23 @@
 #panel p {
     color: #585858;
     font-size: 14px;
-    padding: 5px 10px;
+    padding: 10px 15px;
     cursor: pointer;
-}
-
-#panel p::before {
-  content: '\25BC';
-  display: inline-block;
-  margin-right: 6px;
-}
-
-#panel.collapsed p::before {
-  content: '\25B2';
-  display: inline-block;
-  margin-right: 6px;
 }
 
 #panel.collapsed .trips {
     display: none;
+}
+
+#panel:not(.collapsed) .chevron {
+    transform: rotate(180deg);
+    display: inline-block;
+}
+
+#panel .trip.visible {
+    color: #000;
+}
+
+#panel .trip:not(.visible) {
+    color: #aaa;
 }
